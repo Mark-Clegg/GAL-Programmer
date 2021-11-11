@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MT3608_Module-My_Symbols
+#
+DEF MT3608_Module-My_Symbols U 0 40 Y Y 1 F N
+F0 "U" 0 300 50 H V C CNN
+F1 "MT3608_Module-My_Symbols" 0 200 50 H V C CNN
+F2 "" -350 -150 50 H I C CNN
+F3 "" -350 -150 50 H I C CNN
+DRAW
+S -350 -150 350 150 0 1 0 N
+X VIN+ 1 -450 50 100 R 50 50 1 1 W
+X VIN- 2 -450 -50 100 R 50 50 1 1 W
+X VOUT+ 3 450 50 100 L 50 50 1 1 w
+X VOUT- 4 450 -50 100 L 50 50 1 1 w
+X VPP_EN 5 0 -250 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

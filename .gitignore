@@ -1,0 +1,55 @@
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+gui_defaults.par
+gui_defaults.par.bak
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+# PDF Files
+#*.pdf
+
+# Gerber files
+Gerbers/
+*.gbr
+*.gbrjob
+*.drl
+*.zip
+
+# Assembler output files
+*.bin
+*.hex
+*.lst
+*.idi
+
+# KDevelop project files
+.kdev4/
+*.kdev4
+*.kate-swp
+
+# GALasm output files
+*.chp
+*.fus
+*.jed
+*.pin
