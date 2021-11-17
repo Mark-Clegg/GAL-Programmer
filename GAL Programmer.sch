@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Cosmac Elf"
 Date "lun. 30 mars 2015"
 Rev ""
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "GAL Programmer"
+Comment2 "GAL22V10 / GAL16V8"
 Comment3 ""
 Comment4 ""
 $EndDescr
